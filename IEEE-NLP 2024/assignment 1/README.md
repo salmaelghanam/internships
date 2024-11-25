@@ -1,1 +1,1 @@
-# This assignment is about some preprocessing techniques in text in both Arabic with camel-tools library and English with spacy library. The techniques used are tokenization, normalization, noise removal, part of speech(pos) tagging and stopword removal.
+This assignment is about some preprocessing techniques in text in both Arabic with camel-tools library and English with spacy library. The techniques used are tokenization, normalization, noise removal, part of speech(pos) tagging and stopword removal.
